@@ -1,0 +1,121 @@
+[16-Jul-2019 22:55:20 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[16-Jul-2019 22:56:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[16-Jul-2019 23:00:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[16-Jul-2019 23:04:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[16-Jul-2019 23:08:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/bootstrap/app.php on line 15
+[16-Jul-2019 23:12:38 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/bootstrap/app.php on line 15
+[16-Jul-2019 23:24:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/bootstrap/app.php on line 15
+[17-Jul-2019 00:29:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/bootstrap/app.php on line 15
+[17-Jul-2019 02:36:28 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/bootstrap/app.php on line 15
+[17-Jul-2019 02:39:07 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/bootstrap/app.php on line 15
+[17-Jul-2019 02:42:17 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/bootstrap/app.php on line 15
+[17-Jul-2019 02:43:27 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 02:44:17 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 02:52:42 UTC] PHP Warning:  require(/home/krixuaut/public_html/laramulti/vendor/autoload.php): failed to open stream: No such file or directory in /home/krixuaut/public_html/index.php on line 24
+[17-Jul-2019 02:52:42 UTC] PHP Fatal error:  require(): Failed opening required '/home/krixuaut/public_html/laramulti/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/krixuaut/public_html/index.php on line 24
+[17-Jul-2019 02:52:46 UTC] PHP Warning:  require(/home/krixuaut/public_html/laramulti/vendor/autoload.php): failed to open stream: No such file or directory in /home/krixuaut/public_html/index.php on line 24
+[17-Jul-2019 02:52:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/krixuaut/public_html/laramulti/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/krixuaut/public_html/index.php on line 24
+[17-Jul-2019 02:53:39 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 02:54:42 UTC] PHP Warning:  require(/home/krixuaut/public_html/../laramulti/vendor/autoload.ph): failed to open stream: No such file or directory in /home/krixuaut/public_html/index.php on line 24
+[17-Jul-2019 02:54:42 UTC] PHP Fatal error:  require(): Failed opening required '/home/krixuaut/public_html/../laramulti/vendor/autoload.ph' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/krixuaut/public_html/index.php on line 24
+[17-Jul-2019 02:56:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 03:00:38 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 03:02:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 03:02:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 03:02:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 03:12:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 03:20:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 03:34:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 03:35:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Jul-2019 03:40:39 UTC] PHP Fatal error:  Class 'PDO' not found in /home/krixuaut/laramulti/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 1259
+[17-Jul-2019 03:40:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object(Symfony\Comp in /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 03:48:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object(Symfony\Comp in /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 03:48:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/laramulti/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object(Symfony\Comp in /home/krixuaut/laramulti/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 03:52:16 UTC] PHP Warning:  require(/home/krixuaut/public_html/../laramulti/vendor/autoload.php): failed to open stream: No such file or directory in /home/krixuaut/public_html/index.php on line 24
+[17-Jul-2019 03:52:16 UTC] PHP Fatal error:  require(): Failed opening required '/home/krixuaut/public_html/../laramulti/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/krixuaut/public_html/index.php on line 24
+[17-Jul-2019 03:52:22 UTC] PHP Warning:  require(/home/krixuaut/public_html/../laramulti/vendor/autoload.php): failed to open stream: No such file or directory in /home/krixuaut/public_html/index.php on line 24
+[17-Jul-2019 03:52:22 UTC] PHP Fatal error:  require(): Failed opening required '/home/krixuaut/public_html/../laramulti/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/krixuaut/public_html/index.php on line 24
+[17-Jul-2019 03:54:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 03:54:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 04:00:55 UTC] PHP Fatal error:  Class 'PDO' not found in /home/krixuaut/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 1259
+[17-Jul-2019 04:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 04:01:31 UTC] PHP Fatal error:  Class 'PDO' not found in /home/krixuaut/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 1259
+[17-Jul-2019 04:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 04:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 04:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 05:37:41 UTC] PHP Fatal error:  Class 'PDO' not found in /home/krixuaut/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 1259
+[17-Jul-2019 05:37:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 05:37:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[17-Jul-2019 05:37:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(918): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/krixuaut/public_html/vendor/symfony/var-dumper/Cloner/Data.php(265): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/krixuaut/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
